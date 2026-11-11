@@ -2,20 +2,14 @@
 
 # Okonufua Daniel (Daniel.O.Ayo)
 
-### Elizade University Student · AI & Automotive Research Interests · Creative Technologist
+### Automotive Engineering Student · Learning AI, Automation & Agents
 
-*500-level student at Elizade University, exploring how AI can improve automotive systems.*
-*Building code-driven visualizations, animation systems, and AI-assisted workflows.*
+*500-level B.Eng. Automotive Engineering student at Elizade University.*
+*Learning about AI broadly, with interests in automation, AI agents, and applications in automotive engineering.*
 
 ---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-2D_Procedural-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![GSAP](https://img.shields.io/badge/GSAP-Timeline_Engine-88CE02?style=flat-square)
-![HyperFrames](https://img.shields.io/badge/HyperFrames-Code_to_Video-d8a632?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Audio_%26_Automation-3776AB?style=flat-square&logo=python&logoColor=fff)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-Broadcast_Encoding-007808?style=flat-square&logo=ffmpeg&logoColor=fff)
-![Web3 & DAOs](https://img.shields.io/badge/Web3-Growth_%26_Collabs-627EEA?style=flat-square)
+**Learning interests:** Artificial Intelligence · Automation · AI Agents · Automotive Applications
 
 </div>
 
@@ -25,7 +19,7 @@
 
 My current area of exploration is the intersection of artificial intelligence and automotive systems: how AI can support the analysis, understanding, and improvement of vehicles. I am developing a focused research direction alongside my university studies.
 
-My public software portfolio demonstrates experience with JavaScript visualization, programmatic rendering, and workflow automation. The project below is a creative computing project; it is evidence of implementation skills rather than an automotive research result.
+Alongside my engineering studies, I am learning how AI tools and agents can support practical tasks and creative projects. The project below is a creative portfolio example, separate from my automotive research interests.
 
 ## 🎬 Featured Portfolio Project
 
@@ -62,8 +56,10 @@ My public software portfolio demonstrates experience with JavaScript visualizati
 
 ---
 
-## ⚡ What I Do
+## What I Am Learning and Exploring
 
-- **Code-Driven Motion & Generative Visuals**: Building deterministic HTML5 Canvas/WebGL films, data stories, and programmatic video pipelines with HyperFrames, GSAP, and FFmpeg.
-- **AI & Workflow Automation**: Designing intelligent multi-agent workflows, automated media pipelines, and full-stack web tools.
+- **AI Fundamentals**: Developing my understanding of AI capabilities and practical applications.
+- **Automation & AI Agents**: Learning how to use AI tools, build workflows, and work with agents.
+- **AI in Automotive Engineering**: Exploring how AI can support automotive analysis and engineering problems.
+- **Creative Projects**: Exploring AI-assisted media and visual storytelling through practical projects.
 - **Web3 Growth, Content & Partnerships**: Helping DAOs, prediction markets, and startups scale community reach, strategic collaborations, and technical storytelling.
