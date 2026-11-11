@@ -1,6 +1,6 @@
 <div align="center">
 
-# Okonufua Daniel (`@MaskedCM`)
+# Okonufua Daniel (Daniel.O.Ayo)
 
 ### Elizade University Student · AI & Automotive Research Interests · Creative Technologist
 
