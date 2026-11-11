@@ -2,10 +2,10 @@
 
 # Okonufua Daniel (`@MaskedCM`)
 
-### Creative Technologist · Code-Driven Motion & AI Media · Web3 Growth & Collab Strategist
+### Elizade University Student · AI & Automotive Research Interests · Creative Technologist
 
-*Building programmatic visual storytelling, deterministic motion systems, and high-impact ecosystem growth for startups & DAOs.*
-*Masked, but never silent — DMs open for partnerships & collaborations.*
+*500-level student at Elizade University, exploring how AI can improve automotive systems.*
+*Building code-driven visualizations, animation systems, and AI-assisted workflows.*
 
 ---
 
@@ -20,6 +20,12 @@
 </div>
 
 ---
+
+## Research Interests
+
+My current area of exploration is the intersection of artificial intelligence and automotive systems: how AI can support the analysis, understanding, and improvement of vehicles. I am developing a focused research direction alongside my university studies.
+
+My public software portfolio demonstrates experience with JavaScript visualization, programmatic rendering, and workflow automation. The project below is a creative computing project; it is evidence of implementation skills rather than an automotive research result.
 
 ## 🎬 Featured Portfolio Project
 
@@ -51,7 +57,7 @@
 
 #### Architecture Highlights
 - **Single-Take Camera Choreography**: Continuous 78.60-second (`2,358` frames) spring-eased camera trajectory with 2-Hz handheld weave and optical shutter motion blur over a `3800×2400` procedural world map.
-- **Deterministic Rendering Contract**: Powered by **HyperFrames** + **GSAP** (`window.__timelines["main"]`, `hf-seek`, `window.seek(t)`) and a seeded **Mulberry32** PRNG for bit-identical frame output.
+- **Time-Based Rendering**: Powered by **HyperFrames** + **GSAP** (`window.__timelines["main"]`, `hf-seek`, `window.seek(t)`) and a seeded **Mulberry32** PRNG. Explicit time seeking and seeded randomness support repeatable rendering; pixel-level agreement across browser and platform versions has not been established.
 - **Broadcast Sound Design**: Word-synced documentary voiceover layered with studio Foley (`whoosh`, `impact-bass`, `pop`, `typing`, `riser`) offset `+33ms` after each visual hit and normalized to `-15.4 LUFS`.
 
 ---
